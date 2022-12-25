@@ -3,6 +3,9 @@ import pandas as pd
 import smtplib
 from email.mime.text import MIMEText
 
+# note: I am not sure if this works -- REMOVE THIS
+
+
 # Email credentials
 EMAIL_ADDRESS = 'email_address'
 EMAIL_PASSWORD = 'password'
